@@ -21,7 +21,9 @@ I'm always open to connecting with new people, exchanging ideas, and exploring i
 
 💼 LinkedIn: Find me on LinkedIn
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dino-mesot-08032136b/?isSelfProfile=true) 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
